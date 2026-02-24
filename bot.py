@@ -107,7 +107,7 @@ def get_welcome_text(first_name):
         "**No Snaps – Pure Desi Video 😙**\n\n"
         "**50,000+ Rare Desi Videos 🎀**\n\n"
         "**Price :- ₹99/**-\n\n"
-        "⚠️ **A BOT MADE BY @OTPWALLAHBOT ** ⚠️"
+        "⚠️ **A BOT MADE BY @OTPSWALLAHBOT ** ⚠️"
     )
 
 # ==================== START COMMAND ====================
