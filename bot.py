@@ -17,12 +17,12 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Your Credentials
-BOT_TOKEN = "83731702988"
+BOT_TOKEN = "7789945246:AAGNjyFnpsn5UyJnkrALw8S0EiGHC2zJSII"
 API_ID = 6435225
 API_HASH = "4e984ea35f854762dcde906dce426c2d"
-MONGODB_URI = "mongodb+srv://userbot:userbot"
+MONGODB_URI = "mongodb+srv://ishantyadav708_db_user:JSOfdqSPeFp8uMOH@cluster0.1fnj10l.mongodb.net/?appName=Cluster0"
 DB_NAME = "telegram_bot"
-ADMIN_ID = 7582601826
+ADMIN_ID = 8386507312
 START_IMAGE_URL = "https://files.catbox.moe/mtdlde.jpg"
 DEMO_CHANNEL_LINK = "https://t.me/your_channel"
 PROOF_CHANNEL_LINK = "https://t.me/your_channel"
