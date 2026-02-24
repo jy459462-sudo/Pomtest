@@ -26,7 +26,7 @@ ADMIN_ID = 8386507312
 START_IMAGE_URL = "https://files.catbox.moe/mtdlde.jpg"
 DEMO_CHANNEL_LINK = "https://t.me/your_channel"
 PROOF_CHANNEL_LINK = "https://t.me/your_channel"
-SUPPORT_USERNAME = "support"  # Change this to your support username
+SUPPORT_USERNAME = "@SUPPORT"  # Change this to your support username
 
 # Initialize bot
 app = Client(
@@ -107,7 +107,7 @@ def get_welcome_text(first_name):
         "**No Snaps – Pure Desi Video 😙**\n\n"
         "**50,000+ Rare Desi Videos 🎀**\n\n"
         "**Price :- ₹99/**-\n\n"
-        "⚠️ **Offer Valid for 24 Hours Only** ⚠️"
+        "⚠️ **A BOT MADE BY @OTPWALLAHBOT ** ⚠️"
     )
 
 # ==================== START COMMAND ====================
