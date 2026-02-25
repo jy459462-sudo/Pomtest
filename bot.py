@@ -17,14 +17,14 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Your Credentials
-BOT_TOKEN = "7789945246:AAGNjyFnpsn5UyJnkrALw8S0EiGHC2zJSII"
+BOT_TOKEN = "8774429212:AAHeZPdpzKTfl0yPfag-v7kTukchKVmctao"
 API_ID = 6435225
 API_HASH = "4e984ea35f854762dcde906dce426c2d"
 MONGODB_URI = "mongodb+srv://ishantyadav708_db_user:JSOfdqSPeFp8uMOH@cluster0.1fnj10l.mongodb.net/?appName=Cluster0"
 DB_NAME = "telegram_bot"
-ADMIN_ID = 8386507312
+ADMIN_ID = 8774429212
 START_IMAGE_URL = "https://files.catbox.moe/mtdlde.jpg"
-DEMO_CHANNEL_LINK = "https://t.me/your_channel"
+DEMO_CHANNEL_LINK = "https://t.me/PROOF_ME1"
 PROOF_CHANNEL_LINK = "https://t.me/your_channel"
 SUPPORT_USERNAME = "@SUPPORT"  # Change this to your support username
 
@@ -193,7 +193,7 @@ async def handle_callbacks(client, callback_query: CallbackQuery):
             caption = (
                 "💰 **Get Premium Access**\n\n"
                 "Pay ₹99 and get access to all premium content!\n\n"
-                "**UPI ID:** yourname@okhdfcbank\n"
+                "**UPI ID:** sainiji3@fam\n"
                 "**Bank:** Account: XXXX-XXXX-XXXX\n\n"
                 "📸 **Scan QR code below or send payment screenshot**"
             )
